@@ -1,2 +1,2 @@
-# IdEncryption
-id加密
+﻿# IdEncryption
+id加密简单Demo
